@@ -1,4 +1,4 @@
-PROJ_NAME = fingerprint based security system
+PROJECT_NAME = Fingerprint System
 BUILD_DIR = Build
 
 # All Source code files
