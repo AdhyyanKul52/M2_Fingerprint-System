@@ -33,18 +33,27 @@ Fingerprint systems work by identifying the pattern of ridges and valleys on a f
 # HIGH LEVEL REQUIREMENTS
 
 HLR1	Finger Print Sensor
+
 HLR2	Switches
+
 HLR3	Motor
+
 HLR4	Microcontroller
+
 HLR5	Software used
+
 HLR6	Display
 
 # LOW LEVEL REQUIREMENTS
 
 HLR1_LLR1	Finger Print module
+
 HLR2_LLR1	Push Button
+
 HLR4_LLR1	ATMEGA 328
+
 HLR5_LLR1	Code Blocks with AVR GCC compiler
+
 HLR6_LLR1	SimulIDE LCD and LED
 
 # SWOT ANALYSIS
