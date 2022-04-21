@@ -1,1 +1,2 @@
-
+# Abstract
+A fingerprint may be a group of data which will be wont to detect the software, network protocols, operating systems, or hardware devices. Finger print based security system are often used at many places like Industries, Offices, and Colleges or maybe at our home. Fingerprint sensor is that the main a part of this technique .It is also called as Biometric sensor. User has got to place his/her finger on the optical sensor a part of fingerprint module.
