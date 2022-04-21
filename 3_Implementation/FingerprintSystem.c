@@ -134,12 +134,12 @@ void displayunlockedScreen()
    display.setTextSize(4);
    display.print("WELCOME");
 }
-void displayNick()
+void displayBrook()
 {
   display.setCursor(35,75);
   display.setTextColor(WHITE); 
   display.setTextSize(4);
-  display.print("NICK!");
+  display.print("Brook!");
 }
 
 void displayIoanna()
@@ -147,7 +147,7 @@ void displayIoanna()
   display.setCursor(25,75);
   display.setTextColor(WHITE); 
   display.setTextSize(4);
-  display.print("IOANNA!");
+  display.print("Ioanna!");
 }
 
 void displaylockScreen()
@@ -188,7 +188,7 @@ int getFingerprintID() {
   p = finger.fingerFastSearch();
   if (p != FINGERPRINT_OK)  return -1;
   
-  // found a match!
+  // If matches
   Serial.print("Found ID #"); Serial.print(finger.fingerID); 
   Serial.print(" with confidence of "); Serial.println(finger.confidence);
   return finger.fingerID; 
