@@ -76,6 +76,9 @@ Security concerns growth bu consumers result in high demand for fingerprint syst
 New advanced tecnologies could challenge this technology.
 Duplication of tecnology by rival companies.
 
+# BEHAVIORAL DIAGRAM
+
+![Behavioral Diagram](https://user-images.githubusercontent.com/101423830/164539557-aaba58c1-4f56-432f-a47b-1f2c8bd2c37e.png)
 
 
 
