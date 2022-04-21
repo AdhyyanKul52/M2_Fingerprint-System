@@ -78,6 +78,9 @@ Duplication of tecnology by rival companies.
 
 
 
+
+
+
 # TEST CASES
 
 # HIGH LEVEL TEST CASES
